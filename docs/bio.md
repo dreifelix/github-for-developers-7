@@ -2,3 +2,4 @@
 
 **Name**: Drei
 **Info**: Lorem ipsum
+**Fav Color**: Blue
